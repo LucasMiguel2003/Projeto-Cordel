@@ -25,7 +25,7 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 
 ## Preview
 
-![Projeto Cordel](https://github.com/f5-nascimento/Sistok/assets/28812188/0eeb7054-37d7-40bd-abb3-002fbfeb3d88)
+![foto-cordel2](https://github.com/LucasMiguel2003/Projeto-Cordel/assets/127208684/01e0e676-baf6-4226-b399-f299b586c0cf)
 
 
 ## Deploy
